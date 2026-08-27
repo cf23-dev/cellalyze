@@ -120,5 +120,3 @@ The project is intentionally early-stage. Good next improvements would be:
 - [Scanpy documentation](https://scanpy.readthedocs.io/)
 - [AnnData documentation](https://anndata.readthedocs.io/)
 - [Streamlit documentation](https://docs.streamlit.io/)
-# cellalyze
-# cellalyze
