@@ -35,7 +35,6 @@ CSV and CSV.GZ files are currently supported as tabular previews. They can be in
 Use Python 3.10 or newer. From the project directory, create a virtual environment and install the dependencies:
 
 ```bash
-cd /Users/chloeyfang/scRNAseq-visualizer
 python3 -m venv venv
 source venv/bin/activate
 python -m pip install --upgrade pip
